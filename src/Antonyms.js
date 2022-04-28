@@ -1,14 +1,15 @@
 import React from "react";
+import "./Antonyms.css";
 
 export default function Antonyms (props){
     if (props.antonyms.length > 0) {
     return (
-      <div className="Antonyms">
+      <ul className="Antonyms">
         <h5>Antonyms:</h5>
         {props.antonyms.map(function (antonym, index) {
-          return <span key={index}>{antonym} </span>;
+          return <li key={index}>{antonym} </li>;
         })}
-      </div>
+      </ul>
     );
   } else return null;
 }

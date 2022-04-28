@@ -1,0 +1,15 @@
+.Antonyms {
+  padding: 0;
+  margin-top: -20px;
+}
+
+.Antonyms li {
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.Antonyms h5 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}

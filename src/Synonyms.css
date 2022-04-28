@@ -1,0 +1,16 @@
+.Synonyms {
+  padding: 0;
+}
+
+.Synonyms li {
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.Synonyms h5 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+

@@ -1,0 +1,18 @@
+.Meaning .h3 {
+  font-family: 'Julius Sans One',
+  sans-serif;
+  font-weight: bold;
+}
+
+.Meaning .example {
+  font-weight: 600;
+  font-style: italic;
+  font-size: 17px;
+  margin: 10px 0;
+}
+
+
+.Meaning h5 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}

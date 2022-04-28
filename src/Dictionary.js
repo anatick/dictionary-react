@@ -35,7 +35,7 @@ export default function Dictionary (){
           type="search" 
           onChange={handleKeywordChange}
           />
-          <button type="submit">🔎</button>
+          <button type="submit" className="searchButton">🔎</button>
         </form>
       </section>
 
