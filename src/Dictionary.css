@@ -1,17 +1,46 @@
-.SearchForm {
-  margin: 18px auto;
-  padding: 25px 0px 25px 0px;
-  border: 2px solid #F4E59A;
+.Dictionary section {
+  background-color: #F6AD7B;
+  border-radius: 4px;
+  margin: 20px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
+  border: 2px solid #BE7575;
+  box-shadow: 1px 2px 2px 1px rgb(8 53 83 / 20%);
+  font-size: 18px;
 }
 
 .WordSearch{
-  width: 90%;
-  padding: 3px 0px 3px 5px;
-  margin: 0px 0px 0px 70px;
+  width: 74%;
+  padding: 5px 0px 5px 5px;
+  margin: 0px 10px 12px 70px;
+  background-color: #F6AD7B;
+  border-radius: 2px;
+  border: 0.5px solid #BE7575;
+  font-size: 20px;
+  border-radius: 2px;
 }
 
-.SearchButton{
-  width: 25%;
-  padding: 3px 0px 3px 0px;
-  margin: 0px 0px 0px -120px;
+.subheader {
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+  margin: 12px 12px 12px 12px;
+  font-size: 20px;
+  font-family: 'Julius Sans One', sans-serif;
 }
+
+em {
+  font-weight: 600;
+}
+
+button {
+  background-color: #BE7575;
+  border-radius: 2px;
+}
+
+
+h3,
+h4,
+h5 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}
+
